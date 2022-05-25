@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "hcltechnologies.hclappscancodesweep",
+        "ms-vscode.powershell",
+        "ms-azuretools.vscode-docker",
+        "ms-vscode-remote.remote-containers",
+        "ms-edgedevtools.vscode-edge-devtools"
+    ]
+}
